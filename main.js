@@ -13,3 +13,4 @@ camera.position.z = 5;
 // 3. Object:
 const geometry = new THREE.DodecahedronGeometry();
 const material = new THREE.MeshLambertMaterial( { color: '#468585', emmisive: '#468585' })
+const misbah = "prajjwal"
